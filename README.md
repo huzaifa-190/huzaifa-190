@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Huzaifa Basharat , currently doing my graduation in computer sciences from CIIT , Lahore.
+- 👋 Hi, I’m Huzaifa Basharat , currently doing my graduation in computer sciences from CIIT Lahore, Pakinstan.
 - 👀 I’m interested in Web-dev , mobile app development and ML.
 - 🌱 I’m currently working in MERN for providing feasible web solutions along with React-Native for cross platform mobile apps.
 
